@@ -23,4 +23,4 @@ This project is a practice using leaflet.js API for mapping geolocation.
 
 Salomão A. S. Nunes - [@salonunes](https://instagram.com/salonunes/) - contato@salomaonunes.com.br
 
-Project Link: [https://github.com/salomaonunes/portfolio_salomao](https://github.com/salomaonunes/mapa_teste_leaflet.js)
+Project Link: [https://github.com/salomaonunes/mapa_teste_leaflet.js](https://github.com/salomaonunes/mapa_teste_leaflet.js)
